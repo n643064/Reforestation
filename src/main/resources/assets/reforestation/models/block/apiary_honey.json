@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "reforestation:block/apiary_end",
+    "front": "reforestation:block/apiary_front_honey",
+    "particle": "reforestation:block/apiary_side",
+    "side": "reforestation:block/apiary_side",
+    "top": "reforestation:block/apiary_end"
+  }
+}

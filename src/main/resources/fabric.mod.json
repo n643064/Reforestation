@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "reforestation",
+  "version": "${version}",
+  "name": "Reforestation",
+  "description": "Nature related stuff",
+  "authors": [],
+  "contact": {},
+  "license": "GPL-3.0",
+  "icon": "assets/reforestation/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "n643064.reforestation.client.ReforestationClient"
+    ],
+    "main": [
+      "n643064.reforestation.Reforestation"
+    ]
+  },
+  "mixins": [
+    "reforestation.mixins.json"
+  ],
+  "accessWidener": "reforestation.accesswidener",
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
