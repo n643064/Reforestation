@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "reforestation:redstone_comb"
+    }
+  },
+  "result": {
+    "id": "minecraft:redstone",
+    "count": 3
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "HCH",
+    "PPP"
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:beehive"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "id": "reforestation:apiary",
+    "count": 1
+  }
+}

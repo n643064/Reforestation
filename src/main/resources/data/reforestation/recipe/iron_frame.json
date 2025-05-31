@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "INI",
+    "NFN",
+    "INI"
+  ],
+  "key": {
+    "F": {
+      "item": "reforestation:frame"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "N": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "result": {
+    "id": "reforestation:iron_frame",
+    "count": 1
+  }
+}

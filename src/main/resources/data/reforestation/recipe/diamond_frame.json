@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DMD",
+    "EFE",
+    "DBD"
+  ],
+  "key": {
+    "F": {
+      "item": "reforestation:frame"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    },
+    "B": {
+      "item": "minecraft:blaze_powder"
+    },
+    "M": {
+      "item": "minecraft:music_disc_otherside"
+    }
+  },
+  "result": {
+    "id": "reforestation:diamond_frame",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "reforestation:lapis_comb"
+    }
+  },
+  "result": {
+    "id": "minecraft:lapis_lazuli",
+    "count": 3
+  }
+}

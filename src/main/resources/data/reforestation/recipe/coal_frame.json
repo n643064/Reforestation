@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CDC",
+    "DFD",
+    "CDC"
+  ],
+  "key": {
+    "F": {
+      "item": "reforestation:frame"
+    },
+    "C": {
+      "item": "minecraft:coal"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "id": "reforestation:coal_frame",
+    "count": 1
+  }
+}

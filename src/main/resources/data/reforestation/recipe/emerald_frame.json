@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ECE",
+    "MFM",
+    "ECE"
+  ],
+  "key": {
+    "F": {
+      "item": "reforestation:frame"
+    },
+    "E": {
+      "item": "minecraft:emerald_block"
+    },
+    "C": {
+      "item": "minecraft:cookie"
+    },
+    "M": {
+      "item": "minecraft:music_disc_cat"
+    }
+  },
+  "result": {
+    "id": "reforestation:emerald_frame",
+    "count": 1
+  }
+}

@@ -1,0 +1,4 @@
+#!/bin/sh
+python3 ~/PycharmProjects/mc_resource_gen/src/mc_resource_generator_n643064/ -r src/main/resources/ -m reforestation -y -n "$1_comb" item
+python3 ~/PycharmProjects/mc_resource_gen/src/mc_resource_generator_n643064/ -r src/main/resources/ -m reforestation -y -n "$1_frame" item
+

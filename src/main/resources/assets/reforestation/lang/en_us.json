@@ -1,6 +1,33 @@
 {
   "itemGroup.reforestation.items": "Reforestation",
 
-  "block.reforestation.apiary": "Apiary",
-  "item.reforestation.apiary": "Apiary"
+  "block.reforestation.apiary": "Apiary Hive",
+  "item.reforestation.apiary": "Apiary Hive",
+
+  "item.reforestation.amethyst_comb": "Amethyst Comb",
+  "item.reforestation.coal_comb": "Coal Comb",
+  "item.reforestation.copper_comb": "Copper Comb",
+  "item.reforestation.diamond_comb": "Diamond Comb",
+  "item.reforestation.emerald_comb": "Emerald Comb",
+  "item.reforestation.gold_comb": "Gold Comb",
+  "item.reforestation.iron_comb": "Iron Comb",
+  "item.reforestation.lapis_comb": "Lapis Comb",
+  "item.reforestation.redstone_comb": "Redstone Comb",
+
+  "item.reforestation.frame": "Hive Frame",
+  "item.reforestation.amethyst_frame": "Amethyst Frame",
+  "item.reforestation.coal_frame": "Coal Frame",
+  "item.reforestation.copper_frame": "Copper Frame",
+  "item.reforestation.diamond_frame": "Diamond Frame",
+  "item.reforestation.emerald_frame": "Emerald Frame",
+  "item.reforestation.gold_frame": "Gold Frame",
+  "item.reforestation.iron_frame": "Iron Frame",
+  "item.reforestation.lapis_frame": "Lapis Frame",
+  "item.reforestation.redstone_frame": "Redstone Frame",
+
+  "block.reforestation.machine_casing": "Machine Casing",
+  "item.reforestation.machine_casing": "Machine Casing",
+
+  "item.reforestation.harvester_minecart": "Harvester Minecart",
+  "entity.reforestation.harvester": "Harvester Minecart"
 }

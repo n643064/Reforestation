@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GCG",
+    "CFC",
+    "GCG"
+  ],
+  "key": {
+    "F": {
+      "item": "reforestation:frame"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "C": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "id": "reforestation:gold_frame",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RDR",
+    "DFD",
+    "RDR"
+  ],
+  "key": {
+    "F": {
+      "item": "reforestation:frame"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "reforestation:redstone_frame",
+    "count": 1
+  }
+}

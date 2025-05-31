@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CAC",
+    "AMA",
+    "CAC"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:minecart"
+    },
+    "A": {
+      "item": "minecraft:diamond_axe"
+    },
+    "C": {
+      "item": "reforestation:machine_casing"
+    }
+  },
+  "result": {
+    "id": "reforestation:harvester_minecart",
+    "count": 1
+  }
+}

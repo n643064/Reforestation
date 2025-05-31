@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CFC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "F": {
+      "item": "reforestation:frame"
+    }
+  },
+  "result": {
+    "id": "reforestation:copper_frame",
+    "count": 1
+  }
+}

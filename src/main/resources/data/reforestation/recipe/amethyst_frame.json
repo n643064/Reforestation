@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AFA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "F": {
+      "item": "reforestation:frame"
+    }
+  },
+  "result": {
+    "id": "reforestation:amethyst_frame",
+    "count": 1
+  }
+}
